@@ -1,0 +1,22 @@
+#form{
+     position:absolute;
+     width:500px;
+     height:600px;
+     z-index:15;
+     top:50%;
+     left:50%;
+     margin:-100px 0 0 -150px;
+}
+
+.logar {
+display: inline-block;
+background-color: #ccc;
+color: #444;
+padding: 15px 50px;
+text-decoration: none;
+box-sizing: border-box;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 16px;
+border: 3px;
+}
+
